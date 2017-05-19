@@ -1,0 +1,5 @@
+c:\users\илья-2\documents\visual studio 2017\Projects\SocketClient\SocketClient\bin\Debug\SocketClient.exe.config
+c:\users\илья-2\documents\visual studio 2017\Projects\SocketClient\SocketClient\bin\Debug\SocketClient.exe
+c:\users\илья-2\documents\visual studio 2017\Projects\SocketClient\SocketClient\bin\Debug\SocketClient.pdb
+c:\users\илья-2\documents\visual studio 2017\Projects\SocketClient\SocketClient\obj\Debug\SocketClient.exe
+c:\users\илья-2\documents\visual studio 2017\Projects\SocketClient\SocketClient\obj\Debug\SocketClient.pdb
