@@ -95,9 +95,10 @@ namespace SocketServer
 
                         byte[] msg = Encoding.UTF8.GetBytes(data);
                         Console.WriteLine ("Client Message: " + data);
-                        //  чел первым сообещнием вводил свое 
-                        //имя и это ообщение всем не отправлялось, а сохранялось у сервера, след сообщения которые пишет клиент должна начинаться с его ника
-                        // Цикл ответа всем клиентам
+                        //в личку написать т.е !Loloshka даров брат
+                        //все что после ! знака - ник
+                        // если нет чела в сети то пиши ошибку, лолошка оффлайн
+                        // 
                         foreach (Socket s_client in clients.Keys)
                         {
                             MessageSender(s_client, msg);
