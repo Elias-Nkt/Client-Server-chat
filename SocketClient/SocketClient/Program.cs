@@ -2,6 +2,7 @@
 using System.Text;
 using System.Net;
 using System.Net.Sockets;
+using System.Threading;
 
 namespace SocketClient
 {
@@ -42,6 +43,18 @@ namespace SocketClient
 
             while (true)
             {
+                // Получаем ответ от сервераw 
+                Thread th = new Thread(delegate ()
+                { int bytesRec = sender.Receive(bytes);
+
+                string respons = Encoding.UTF8.GetString(bytes, 0, bytesRec);
+
+                Console.WriteLine("\nОтвет от сервера: {0}\n\n", respons);
+
+                    //if (respons == "стопэ") break;
+                });
+                th.Start();
+                //send message
                 Console.Write("Введите сообщение: ");
                 string message = Console.ReadLine();
 
@@ -50,15 +63,10 @@ namespace SocketClient
 
                 // Отправляем данные через сокет
                 int bytesSent = sender.Send(msg);
-
-                // Получаем ответ от сервера
-                int bytesRec = sender.Receive(bytes);
-
-                string respons = Encoding.UTF8.GetString(bytes, 0, bytesRec);
-
-                Console.WriteLine("\nОтвет от сервера: {0}\n\n", respons);
-
-                if (respons == "стопэ") break;
+                //
+                
+                
+                
             }
             
             // Освобождаем сокет

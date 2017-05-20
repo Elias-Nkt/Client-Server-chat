@@ -4,3 +4,9 @@ C:\Users\Илья-2\documents\visual studio 2017\Projects\SocketServer\SocketSer
 C:\Users\Илья-2\documents\visual studio 2017\Projects\SocketServer\SocketServer\obj\Debug\SocketServer.csprojResolveAssemblyReference.cache
 C:\Users\Илья-2\documents\visual studio 2017\Projects\SocketServer\SocketServer\obj\Debug\SocketServer.exe
 C:\Users\Илья-2\documents\visual studio 2017\Projects\SocketServer\SocketServer\obj\Debug\SocketServer.pdb
+C:\Users\Илья-2\Documents\Sockets\Serv-Client-Sockets\SocketServer\SocketServer\bin\Debug\SocketServer.exe.config
+C:\Users\Илья-2\Documents\Sockets\Serv-Client-Sockets\SocketServer\SocketServer\bin\Debug\SocketServer.exe
+C:\Users\Илья-2\Documents\Sockets\Serv-Client-Sockets\SocketServer\SocketServer\bin\Debug\SocketServer.pdb
+C:\Users\Илья-2\Documents\Sockets\Serv-Client-Sockets\SocketServer\SocketServer\obj\Debug\SocketServer.csprojResolveAssemblyReference.cache
+C:\Users\Илья-2\Documents\Sockets\Serv-Client-Sockets\SocketServer\SocketServer\obj\Debug\SocketServer.exe
+C:\Users\Илья-2\Documents\Sockets\Serv-Client-Sockets\SocketServer\SocketServer\obj\Debug\SocketServer.pdb

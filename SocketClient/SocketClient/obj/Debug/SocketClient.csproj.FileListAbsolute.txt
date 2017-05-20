@@ -3,3 +3,9 @@ c:\users\илья-2\documents\visual studio 2017\Projects\SocketClient\SocketCli
 c:\users\илья-2\documents\visual studio 2017\Projects\SocketClient\SocketClient\bin\Debug\SocketClient.pdb
 c:\users\илья-2\documents\visual studio 2017\Projects\SocketClient\SocketClient\obj\Debug\SocketClient.exe
 c:\users\илья-2\documents\visual studio 2017\Projects\SocketClient\SocketClient\obj\Debug\SocketClient.pdb
+C:\Users\Илья-2\Documents\Sockets\Serv-Client-Sockets\SocketClient\SocketClient\bin\Debug\SocketClient.exe.config
+C:\Users\Илья-2\Documents\Sockets\Serv-Client-Sockets\SocketClient\SocketClient\bin\Debug\SocketClient.exe
+C:\Users\Илья-2\Documents\Sockets\Serv-Client-Sockets\SocketClient\SocketClient\bin\Debug\SocketClient.pdb
+C:\Users\Илья-2\Documents\Sockets\Serv-Client-Sockets\SocketClient\SocketClient\obj\Debug\SocketClient.csprojResolveAssemblyReference.cache
+C:\Users\Илья-2\Documents\Sockets\Serv-Client-Sockets\SocketClient\SocketClient\obj\Debug\SocketClient.exe
+C:\Users\Илья-2\Documents\Sockets\Serv-Client-Sockets\SocketClient\SocketClient\obj\Debug\SocketClient.pdb
